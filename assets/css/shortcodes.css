@@ -121,7 +121,7 @@
 .flat-slider .slider-right {
   position   : relative;
   width      : 60%;
-  padding-top: 198px;
+  /* padding-top: 198px; */
 }
 
 .flat-slider .slider-right .mark-slider-1 {

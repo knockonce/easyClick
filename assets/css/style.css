@@ -3185,7 +3185,7 @@ a:focus {
 --------------------------------------------------------------*/
 .flat-about {
     margin-bottom      : -23px;
-    background-image   : url(../images/mark-page/mark-about.png);
+    /* background-image   : url(../images/mark-page/mark-about.png); */
     background-repeat  : no-repeat;
     background-position: center center;
     background-size    : cover;
@@ -3927,7 +3927,7 @@ a:focus {
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     display           : -webkit-box;
-    overflow          : hidden;
+    /* overflow          : hidden; */
     text-overflow     : ellipsis;
     word-break        : break-word;
 }
@@ -5299,7 +5299,7 @@ a:focus {
 
 .flat-contact .contact-form {
     background-color   : var(--primary-color);
-    background-image   : url(../images/mark-page/mark-contact-form.png);
+    /* background-image   : url(../images/mark-page/mark-contact-form.png); */
     background-repeat  : no-repeat;
     background-position: center;
     border-radius      : 8px;

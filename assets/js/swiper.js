@@ -72,7 +72,7 @@ var swiper =  new Swiper(".carousel-3", {
     //     delay: 6000,
     //     disableOnInteraction: false,
     // },
-    slidesPerView: 3,   
+    slidesPerView: 1,   
     loop: true,
     spaceBetween: 30,
     navigation: {
@@ -99,7 +99,7 @@ var swiper =  new Swiper(".carousel-3", {
 var swiper =  new Swiper(".slider-vertical", {
     direction: 'vertical',
     spaceBetween: 25,
-    slidesPerView: 3,
+    slidesPerView: 1,
     centeredSlides: true,
     loop: true,
     navigation: {
